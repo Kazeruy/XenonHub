@@ -1,1 +1,7 @@
 if game.PlaceId == 9157605735 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/XenonHub/main/MiscGunTest%3AX"))()
+end
+
+if game.Placeid == 10446125875 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/XenonHub/main/AnimeFruitSimulator"))()
+end
